@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Poonkuzhali 👋
 
-<!--
-**poonkuzhali-srinivasan/poonkuzhali-srinivasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 3rd Year Information Technology Student
 
-Here are some ideas to get you started:
+I'm a 3rd-year IT student interested in programming, software development, and emerging technologies.  
+Currently building my fundamentals in coding and working on small projects to improve my practical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 3rd Year Information Technology Student
+- 💻 Currently learning Python
+- 🌱 Exploring Web Development and Java
+- 🧠 Interested in AI/ML and Software Development
+- 🚀 Building projects and improving my programming skills
+- 🎯 Goal: Become a skilled software developer
+
+---
+
+## 🛠️ Technologies I'm Learning
+
+### Programming
+- Python
+- Java
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+### Database
+- SQL
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📚 Currently Learning
+
+```text
+Python
+  ↓
+Programming Fundamentals
+  ↓
+Problem Solving
+  ↓
+Web Development
+  ↓
+Java
+  ↓
+SQL & DBMS
+  ↓
+AI / ML
